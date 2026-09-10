@@ -1,7 +1,7 @@
 # StudentToolkit — AI-Powered Academic Productivity Suite
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9+-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/) [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-Material_3-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose) [![Android](https://img.shields.io/badge/Android-SDK_34-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
-[![Author](https://img.shields.io/badge/Author-Abdussatar-E50914?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satarabdus692-bot)
+[![Author](https://img.shields.io/badge/Author-Abdussatar-E50914?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdussatarkhan)
 
 > **A modern native Android productivity application engineered in Kotlin and Jetpack Compose featuring an on-device AI academic assistant, Pomodoro focus timer, semester GPA/CGPA forecasting engine, and assignment task manager.**
 
@@ -33,7 +33,7 @@ graph TD
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/satarabdus692-bot/student-toolkit.git
+git clone https://github.com/abdussatarkhan/student-toolkit.git
 cd student-toolkit
 ```
 
@@ -51,8 +51,8 @@ pip install -r requirements.txt
 
 ## 👨‍💻 Author & Profile
 
-Built and maintained by **Abdussatar** ([@satarabdus692-bot](https://github.com/satarabdus692-bot)).  
-For technical discussions, collaboration, or queries, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/abdus-satar-5150813b5/) or [GitHub](https://github.com/satarabdus692-bot).
+Built and maintained by **Abdussatar** ([@abdussatarkhan](https://github.com/abdussatarkhan)).  
+For technical discussions, collaboration, or queries, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/abdus-satar-5150813b5/) or [GitHub](https://github.com/abdussatarkhan).
 
 ---
 
