@@ -1,5 +1,6 @@
 # StudentToolkit — AI-Powered Academic Productivity Suite
 
+[![CI](https://github.com/abdussatarkhan/student-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/abdussatarkhan/student-toolkit/actions)
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9+-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/) [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-Material_3-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose) [![Android](https://img.shields.io/badge/Android-SDK_34-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
 [![Author](https://img.shields.io/badge/Author-Abdussatar-E50914?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdussatarkhan)
 
@@ -46,6 +47,16 @@ source venv/bin/activate  # On Windows: .\venv\Scripts\activate
 # Install dependencies (if requirements.txt exists)
 pip install -r requirements.txt
 ```
+
+---
+
+## 🗺️ Roadmap & Upcoming Features
+
+- [x] Kotlin & Jetpack Compose modern Material 3 UI
+- [x] On-device AI academic advisor and GPA calculator
+- [ ] Automated GitHub Actions release APK compilation
+- [ ] Cloud sync with Google Drive / Firebase backup
+- [ ] Android 14 Material You dynamic wallpaper theming
 
 ---
 
